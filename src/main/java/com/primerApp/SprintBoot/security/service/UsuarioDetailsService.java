@@ -6,7 +6,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import java.util.Map;
-import lombok.var;
+
 
 @Service
 public class UsuarioDetailsService implements UserDetailsService  {
